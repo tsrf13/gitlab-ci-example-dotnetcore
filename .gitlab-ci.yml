@@ -78,3 +78,5 @@ code_quality:
   except:
     variables:
       - $CODE_QUALITY_DISABLED
+
+      
